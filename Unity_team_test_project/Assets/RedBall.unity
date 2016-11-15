@@ -121,7 +121,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 69d563ea9c368b345a7bdf8470bc243e, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -287,7 +287,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4ce32293cb8e443e9a0c63ad7295b913, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -366,7 +366,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4ce32293cb8e443e9a0c63ad7295b913, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -580,7 +580,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4ce32293cb8e443e9a0c63ad7295b913, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -674,7 +674,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4ce32293cb8e443e9a0c63ad7295b913, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -753,7 +753,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4ce32293cb8e443e9a0c63ad7295b913, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -832,7 +832,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 4ce32293cb8e443e9a0c63ad7295b913, type: 2}
+  - {fileID: 2100000, guid: 713d01552da55e3418cdb4b5f9aef0eb, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
