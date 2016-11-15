@@ -515,7 +515,7 @@ PlayerSettings:
   XboxOne::VR::enabledDevices: []
   iOS::VR::enabledDevices: []
   tvOS::VR::enabledDevices: []
-  cloudProjectId: bb092746-9243-4256-94cb-6a8abe502662
+  cloudProjectId: 232b69d6-38d3-4fd6-96be-baa2c98f0dfa
   projectName: Unity_team_test_project
-  organizationId: mintopazu
+  organizationId: kumanbe
   cloudEnabled: 0
